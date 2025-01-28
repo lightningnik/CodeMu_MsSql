@@ -1,0 +1,1 @@
+SELECT * FROM L1T4 WHERE date < '2005-12-31' or date > '2001-01-01'

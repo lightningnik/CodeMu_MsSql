@@ -1,0 +1,1 @@
+SELECT * FROM L1T4 WHERE amount >= 500 or user_id > 2

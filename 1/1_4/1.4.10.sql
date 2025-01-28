@@ -1,0 +1,1 @@
+SELECT * FROM L1T4 WHERE id = 1 or id = 2 or date > '2020-01-01'

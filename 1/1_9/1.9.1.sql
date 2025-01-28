@@ -1,0 +1,1 @@
+SELECT MAX(number1) AS max_num1, MAX(number2) AS max_num2, MAX(number3) AS max_num3 FROM L1T9

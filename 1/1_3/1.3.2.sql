@@ -1,0 +1,1 @@
+SELECT COUNT(name) AS named_employees FROM L1T3

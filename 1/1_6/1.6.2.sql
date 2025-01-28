@@ -1,0 +1,1 @@
+SELECT MAX(amount) AS Max_amount FROM L1T6

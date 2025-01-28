@@ -1,0 +1,1 @@
+SELECT MIN(amount) AS Minimal_amount FROM L1T6

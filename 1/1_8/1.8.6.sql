@@ -1,0 +1,1 @@
+SELECT RAND(number1), RAND(number2), RAND(number3) FROM L1T8

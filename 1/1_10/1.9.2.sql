@@ -1,0 +1,1 @@
+INSERT INTO L1T10(name, date) VALUES ('user3', '1970-10-06')

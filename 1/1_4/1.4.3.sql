@@ -1,0 +1,1 @@
+SELECT * FROM L1T4 WHERE amount > 200 or product_id = 1

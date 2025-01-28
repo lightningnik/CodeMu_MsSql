@@ -1,0 +1,1 @@
+SELECT id, date, temperature, SIGN(temperature) AS sign_temperature  FROM L1T7

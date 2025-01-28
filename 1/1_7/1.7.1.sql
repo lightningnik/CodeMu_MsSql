@@ -1,0 +1,1 @@
+SELECT ABS(SUM(temperature)) AS abs_temperature FROM L1T7

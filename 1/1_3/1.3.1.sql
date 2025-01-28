@@ -1,0 +1,1 @@
+SELECT COUNT(id) AS total_employees FROM L1T3

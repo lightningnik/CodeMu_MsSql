@@ -1,0 +1,1 @@
+SELECT number2%3 AS div_num2 FROM L1T8

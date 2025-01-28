@@ -1,0 +1,1 @@
+SELECT ROUND(SQRT(number3), 2) FROM L1T8

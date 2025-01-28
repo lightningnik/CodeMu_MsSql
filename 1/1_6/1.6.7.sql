@@ -1,0 +1,1 @@
+SELECT FLOOR(AVG(amount)) AS floor_avg_amount FROM L1T6

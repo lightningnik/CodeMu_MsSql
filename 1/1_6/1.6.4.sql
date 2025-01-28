@@ -1,0 +1,1 @@
+SELECT ROUND(AVG(amount),1) AS avg_amount FROM L1T6

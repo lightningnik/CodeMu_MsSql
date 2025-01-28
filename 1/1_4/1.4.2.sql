@@ -1,0 +1,1 @@
+SELECT amount FROM L1T4 WHERE user_id = 5 or user_id = 6

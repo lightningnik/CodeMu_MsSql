@@ -1,0 +1,1 @@
+SELECT number3+number1 AS sum31 FROM L1T8

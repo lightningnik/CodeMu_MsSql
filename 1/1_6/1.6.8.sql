@@ -1,0 +1,1 @@
+SELECT ROUND(SUM(amount),4, 1) AS round_sum FROM L1T6

@@ -1,0 +1,1 @@
+SELECT number3%number1 AS mun3_div_num1 FROM L1T8

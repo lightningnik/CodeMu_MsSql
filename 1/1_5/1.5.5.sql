@@ -1,0 +1,1 @@
+SELECT * FROM L1T5 WHERE amount < 500

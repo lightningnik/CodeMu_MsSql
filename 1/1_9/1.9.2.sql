@@ -1,0 +1,1 @@
+SELECT MIN(number1) AS min_num1, MIN(number2) AS min_num2, MIN(number3) AS min_num3 FROM L1T9

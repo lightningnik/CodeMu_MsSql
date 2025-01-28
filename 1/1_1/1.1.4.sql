@@ -1,0 +1,1 @@
+SELECT name AS first_name FROM L1T1

@@ -1,0 +1,1 @@
+SELECT CEILING(AVG(amount)) AS ceiling_avg FROM L1T6
