@@ -1,1 +1,0 @@
-SELECT name FROM L2T1 WHERE name LIKE 'A%'
