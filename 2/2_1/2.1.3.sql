@@ -1,0 +1,1 @@
+SELECT name FROM L2T1 WHERE salary > (SELECT AVG(salary) FROM L2T1)

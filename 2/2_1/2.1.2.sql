@@ -1,0 +1,1 @@
+SELECT TOP 1 name, MAX(salary) AS salary, city, registration_date FROM L2T1 GROUP BY name, city, registration_date ORDER BY MAX(salary) DESC

@@ -1,0 +1,1 @@
+SELECT COUNT(name) AS count_emp FROM L2T1 WHERE YEAR(registration_date) = YEAR(GETDATE())
